@@ -442,9 +442,6 @@
         "WHITE_500": "#dcddde",
         "YELLOW_300": "#2780E6"
     },
-    "background": {
-        "#12171d"
-    },
     "plus": {
         "version": 0,
         "customOverlays": true,
